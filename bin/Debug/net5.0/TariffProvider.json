@@ -1,0 +1,30 @@
+﻿[
+    {
+        "name": "Product A",
+        "type": 1,
+        "baseCost": 5,
+        "additionalKwhCost": 22
+    },
+    {
+        "name": "Product B",
+        "type": 2,
+        "includedKwh": 4000,
+        "baseCost": 800,
+        "additionalKwhCost": 30
+    },
+    {
+        "name": "Product C",
+        "type": 2,
+        "includedKwh": 3750,
+        "baseCost": 780,
+        "additionalKwhCost": 20
+    },
+    {
+        "name": "Product D",
+        "type": 2,
+        "includedKwh": 4100,
+        "baseCost": 700,
+        "additionalKwhCost": 35
+    }
+
+]
